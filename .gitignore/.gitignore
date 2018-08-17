@@ -1,0 +1,45 @@
+
+
+CSS : CASCADING STYLE SHEET
+CSS : USE TO CHANGE THE LOOK AND FEEL OF WEB PAGE
+HTML IS COLLECTIONS OF PRE DIFINE TAGS 
+
+CSS IS COLLECTIONS OF PREDIFINE PROPERTITY AND RELATED VALUES
+
+USING CSS PROPERTY AND VALUES WE CAN EXTENDS THE FEATURES OF HTML SO
+THAT PAGE LOOK AND FEEL WILL BE BETTER.
+
+CSS CAN BE MARGE TO HTML USING 4 WAYS
+		OR
+TYPES OF CSS ?
+	-> INLINE	2 TO 5%
+	->INTERNAL	10-12%
+	->EXTERNAL	70-80%
+	->IMPORT.	5 TO 10%
+--------------------------------------------------------------------------
+	list of css property and values
+	
+	background:(3)
+	height:(3)
+	width:(4)
+	float:(2)(to convert from block level tag to inline tag)
+		
+		left: it will arrange the container from left to right LTR
+		right:it will arrange the container from right to left RTL
+------------------------------------------------------------------------------
+margin: to apply gap from surrounding
+	margin:auto; to arrenge the container into center of area
+	margine:50px; tp apply= gap of 50 px from all side
+	margine-top:50px;to apply gap from the top side
+	margine-left:50px;to apply gap from the left side
+	margine-right:50px;to apply gap from the right side
+	margine-bottom:50px;to apply gap from the bottom side
+
+------------------------------------------------------------------------------------
+
+
+padding: it apply gap inside of container
+	padding:20px; gap will come from all side
+	padding-right:20px:gap come from right side
+	padding-left:20px:gap come from left side
+	padding-bottom:20px:gap come from bottom side
